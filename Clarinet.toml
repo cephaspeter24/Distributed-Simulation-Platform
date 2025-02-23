@@ -10,6 +10,11 @@ path = 'contracts/causality-preservation.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.parallel-timeline-management]
+path = 'contracts/parallel-timeline-management.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.quantum-state-manipulation]
 path = 'contracts/quantum-state-manipulation.clar'
 clarity_version = 2

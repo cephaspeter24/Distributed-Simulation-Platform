@@ -55,6 +55,11 @@ plan:
             path: contracts/causality-preservation.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: parallel-timeline-management
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/parallel-timeline-management.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: quantum-state-manipulation
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/quantum-state-manipulation.clar
