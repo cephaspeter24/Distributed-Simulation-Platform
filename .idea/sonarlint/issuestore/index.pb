@@ -13,3 +13,7 @@ $tests/causality-preservation.test.ts,a/b/ab4b59f14d9d4b6c0fb8142f107e7b5a55771
 +contracts/parallel-timeline-management.clar,2/c/2cbba386ce8d8d76fccb13dac9f3ea009b3d2bbf
 Z
 *tests/parallel-timeline-management.test.ts,9/f/9fcdf5acb38ad1ae48a40c165d7dbec677b66354
+P
+ contracts/ethical-oversight.clar,e/f/efd1f2336cb9bc2c3c5c0bc2b57fd5dab761d5bf
+O
+tests/ethical-oversight.test.ts,0/5/053e82093bedddec119c7f830442e62aa7bf38c1
