@@ -5,3 +5,5 @@ Y
 )contracts/quantum-state-manipulation.clar,3/b/3b3050fc186c51693e73430a11b3b4641a75bd0a
 X
 (tests/quantum-state-manipulation.test.ts,6/a/6a16443dcf4ad97dd437669bfefdc301293cf1be
+U
+%contracts/causality-preservation.clar,d/5/d5089cd8bc936327c91f49ea44cce32d37c6218f

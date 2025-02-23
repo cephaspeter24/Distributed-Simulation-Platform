@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.causality-preservation]
+path = 'contracts/causality-preservation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.quantum-state-manipulation]
 path = 'contracts/quantum-state-manipulation.clar'
 clarity_version = 2
